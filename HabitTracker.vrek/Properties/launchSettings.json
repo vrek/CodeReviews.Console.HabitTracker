@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HabitTracker.vrek": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Raymond\\source\\repos\\CodeReviews.Console.HabitTracker\\HabitTracker.vrek\\"
+    }
+  }
+}
